@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm JijinKumar 👋
 
 ![Software Engineer](https://img.shields.io/badge/Role-Software%20Engineer-blue)
 ![1 Year Experience](https://img.shields.io/badge/Experience-1%20Year-green)
