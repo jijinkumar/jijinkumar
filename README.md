@@ -24,10 +24,8 @@ I'm currently honing my skills in Python for machine learning and diving deeper 
 
 Feel free to reach out to me through the following channels:
 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/YourGitHubUsername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourtwitterhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4)](https://www.yourportfoliowebsite.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/jijinkumar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jijinkumar-saravanan-86a2521b0/)
 
 Let's connect and collaborate on exciting projects!
 
