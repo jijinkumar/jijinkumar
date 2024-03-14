@@ -1,9 +1,9 @@
 # Hello, I'm Jijin Kumar 👋
 
 ![Software Engineer](https://img.shields.io/badge/Role-Software%20Engineer-blue)
-![1 Year Experience](https://img.shields.io/badge/Experience-1%20Year-green)
+![2+ Years Experience](https://img.shields.io/badge/Experience-2%20Years-green)
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a year of experience in Laravel, and I've also dabbled in HTML, CSS, Bootstrap, PHP. Currently, my focus has shifted towards Python for machine learning, and I have a basic understanding of React.
+Welcome to my GitHub profile! I'm a passionate software engineer with over two years of experience. My expertise lies in Laravel, and I've also worked extensively with HTML, CSS, Bootstrap, and PHP. Recently, I've delved into Python for machine learning projects and have a basic understanding of React.
 
 ## 🔧 Technologies and Tools
 
@@ -28,4 +28,3 @@ Feel free to reach out to me through the following channels:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jijinkumar-saravanan-86a2521b0/)
 
 Let's connect and collaborate on exciting projects!
-
